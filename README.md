@@ -12,4 +12,7 @@
 #### command + i git & svn 提交
 #### command + t git svn 更新线上代码到本地
 
+```
+直接导入phpstorm-2016 到你的工具就行
+```
 
